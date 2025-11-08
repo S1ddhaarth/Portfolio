@@ -33,7 +33,7 @@ const HeroSection = () => {
         
         {/* CTA Buttons */}
         <div className="fade-in-delay-2 flex flex-col sm:flex-row gap-4 justify-center mb-16">
-          <a href="https://github.com/symbian-bro" target="_blank"><Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow">
+          <a href="https://github.com/s1ddhaarth" target="_blank"><Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow">
             View My Work
           </Button></a>
           <a href="mailto:siddharth.alakkode@proton.me"><Button variant="outline" size="lg" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground">
@@ -44,7 +44,7 @@ const HeroSection = () => {
         
         {/* Social Links */}
         <div className="fade-in-delay-3 flex justify-center space-x-6 mb-16">
-          <a href="https://github.com/symbian-bro" target="_blank" className="text-text-muted hover:text-primary transition-colors duration-300" title="GitHub">
+          <a href="https://github.com/s1ddhaarth" target="_blank" className="text-text-muted hover:text-primary transition-colors duration-300" title="GitHub">
             <Github className="h-6 w-6" />
           </a>
           <a href="https://gitlab.com/symbian-bro" target="_blank" className="text-text-muted hover:text-primary transition-colors duration-300" title="GitLab">
