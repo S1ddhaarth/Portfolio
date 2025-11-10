@@ -27,7 +27,7 @@ const HeroSection = () => {
         <div className="fade-in-delay-1">
           <p className="text-lg md:text-xl text-text-muted max-w-2xl mx-auto mb-12 leading-relaxed">
             Contributing to the GNU Project, developing native Linux and Android applications 
-            and working with CUSAT FOSS to advance software freedom and security.
+            and working with FOSS clubs to advance software freedom and security.
           </p>
         </div>
         
